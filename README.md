@@ -4,7 +4,7 @@
 
 Meshenger is an iPhone based messaging service that allows registered users to chat to each other in different channels. It can even connect users when there is no internet connection available by allowing user to send messages over Bluetooth and Wi-Fi Direct.  
 
-Meshenger was built over two weeks at Makers Academy  coding bootcamp by [Daniel Jones](https://github.com/danieljonesdmj), [Cornelis Heuperman](https://github.com/heuperman), [Yvonne Tang](https://github.com/YvCodeHong) and [Jay Khan](https://github.com/neobay991), none of which had ever made a mobile app before. Want to know more? You can watch our [final presentation]()(coming soon), read about reflections on the project in our [process log](https://hackmd.io/s/S1yZNbdUm) --- Change to published version or even [follow us on Instagram](https://www.instagram.com/meshenger_coder/).
+Meshenger was built over two weeks at Makers Academy coding bootcamp by [Daniel Jones](https://github.com/danieljonesdmj), [Cornelis Heuperman](https://github.com/heuperman), [Yvonne Tang](https://github.com/YvCodeHong) and [Jay Khan](https://github.com/neobay991), none of which had ever made a mobile app before. Want to know more? You can watch our [final presentation](https://www.facebook.com/MakersAcademy/videos/251992592119398/)(starts at 6:40), read about reflections on the project in our [process log](https://hackmd.io/s/S1yZNbdUm) or even [follow us on Instagram](https://www.instagram.com/meshenger_coder/).
 
 ## Screenshots
 
